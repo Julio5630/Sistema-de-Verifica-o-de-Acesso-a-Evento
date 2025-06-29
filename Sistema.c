@@ -21,6 +21,6 @@ int main() {
     } else if (temIngresso == 0) {
         printf("\nÉ necessário possuir ingresso para entrar.\n");
     }
-
+    
     return 0;
 }
